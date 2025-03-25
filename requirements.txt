@@ -1,0 +1,10 @@
+pandas
+scikit-learn		# includes scipy
+statsmodels
+matplotlib
+matplotlib_venn
+seaborn
+jupyter 		# jupyter Notebook
+folium
+networkx
+
